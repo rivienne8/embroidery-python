@@ -1,5 +1,9 @@
 # Embroidery
 
+_Project developed in July 2020 (group project during Codecool course)_
+
+![shapes](https://github.com/rivienne8/embroidery-python/raw/main/shapes.png)
+
 ## Story
 
 Winter is coming, so does Christmas. You have a small enterprise
